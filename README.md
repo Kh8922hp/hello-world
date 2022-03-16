@@ -8,4 +8,5 @@ bool getBit(int num, int i) {
 
 ``` csharp
 private bool isCool = "n/a";
+private string yup = "Coconut";
 ```
